@@ -1,2 +1,2 @@
 # SECT0R
-# Shooting, Action, FPS, Open world, Online Game in production 
+# Shooting, Action, TPS, Open world, Online Game. (In development)
